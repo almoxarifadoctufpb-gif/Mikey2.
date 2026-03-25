@@ -8,7 +8,7 @@
   <meta name="theme-color" content="#0A0A0F">
   <title>Almox CT UFPB</title>
   <link rel="manifest" href="manifest.json">
-  <link rel="apple-touch-icon" href="Logo Inicial do APP.jpeg">
+  <link rel="apple-touch-icon" href="Gemini_Generated_Image_hh2cyjhh2cyjhh2c.png">
   <link rel="icon" type="image/png" href="Logo Inicial do APP.jpeg">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.28/jspdf.plugin.autotable.min.js"></script>
